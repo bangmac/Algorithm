@@ -34,7 +34,6 @@ public class BinaryFindSet {
     }
 }
 
-
 //    Bắt đầu phương thức binarySearch (list, value)
 //low = 0; high = list.lengh-1;
 //        while (high >= low)
